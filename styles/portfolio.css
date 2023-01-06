@@ -140,3 +140,40 @@ main{
     padding: 30px;
 
 }
+.resume-content{
+    display: flex;
+    gap: 71px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.resume-description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.resume .sub-title{
+    color: #757575;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 20px;
+
+}
+
+.resume .description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
